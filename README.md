@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alejandro Orihuela
 - :smoking: I love smoking and drink coffee
-- 👀 I’m interested in ios developing
-- 🌱 I’m currently learning Angular
+- 👀 I’m interested in iOS developing
+- 🌱 I’m currently learning iOS
 
 <!---
 AlejandroSeed/AlejandroSeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
