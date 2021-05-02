@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alejandro Orihuela
 - :smoking: I love smoking and drink coffee
-- 👀 I’m interested in front-end web developing
+- 👀 I’m interested in ios developing
 - 🌱 I’m currently learning Angular
 
 <!---
